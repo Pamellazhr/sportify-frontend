@@ -9,7 +9,7 @@ export default function Header() {
                 <div className='flex gap-10 items-center'>
                     <div className='flex gap-16 text-[17px]'>
                         <a href="/">Home</a>
-                        <a href="/">Partneship</a>
+                        <a href="/">Partneships</a>
                         <a href="/">About</a>
                         <a href="/">Sewa Lapangan</a>
                     </div>
